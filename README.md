@@ -41,13 +41,6 @@ cd math-prog/cpo-dataset/machine-learn/WDBC/
 ## Постановка задачи:
 Нужно классифицировать наш набор данных и достичь более успешных результатов в правильной классификации раковых клеток
 
-## Работу выполнили:
-- Пантюхин Роман, группа 11-008
-- Капралов Александр, группа 11-008
-
-## Ссылка на датасет:
-[Breast Cancer Wisconsin](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
-
 ## Используемые алгоритмы:
 - Logistic Regression
 - Hist Gradient Boosting
@@ -63,6 +56,13 @@ cd math-prog/cpo-dataset/machine-learn/WDBC/
 ![](https://sun9-46.userapi.com/impg/4U3a6tpjXTV4tdX3k1jmMOa_wlQpvhy-004jIQ/0m6a2KI08T8.jpg?size=1027x575&quality=96&sign=8ac0246fc11e58c0d109526baa014f7d&type=album)
 Из этих результатов мы понимаем, что использование методов CatBoost, LightGBM, AdaBoost при классификации нашего набора данных позволит достичь более успешных результатов в правильной классификации опухолевых клеток.
 Дано графическое представление процентного соотношения и степени точности этих методов на рисунке выше
+
+## Работу выполнили:
+- Пантюхин Роман, группа 11-008
+- Капралов Александр, группа 11-008
+
+## Ссылка на датасет:
+[Breast Cancer Wisconsin](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 ## Ссылка на код:
 - [main.ipynb](https://github.com/sanyonk/data-analysis-grade3/blob/main/main.ipynb)

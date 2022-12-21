@@ -11,7 +11,7 @@ cd math-prog/cpo-dataset/machine-learn/WDBC/
 
 Также можно найти в репозитории машинного обучения UCI: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
-###  Информация об атрибутах:
+##  Информация об атрибутах:
 
 - Идентификационный номер
 - Диагноз (М = злокачественное, В = доброкачественное)
@@ -38,14 +38,14 @@ cd math-prog/cpo-dataset/machine-learn/WDBC/
 Отсутствующие значения атрибута: none
 Распределение по классам: 357 доброкачественных, 212 злокачественных
 
-### Работу выполнили:
+## Работу выполнили:
 - Пантюхин Роман, группа 11-008
 - Капралов Александр, группа 11-008
 
-### Ссылка на датасет:
+## Ссылка на датасет:
 [Breast Cancer Wisconsin](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
-### Используемые алгоритмы:
+## Используемые алгоритмы:
 - Logistic Regression
 - Hist Gradient Boosting
 - Random Forest
@@ -56,6 +56,6 @@ cd math-prog/cpo-dataset/machine-learn/WDBC/
 - KNeighbors
 - СatBoost
 
-### Результаты:
+## Результаты:
 ![](https://sun9-46.userapi.com/impg/4U3a6tpjXTV4tdX3k1jmMOa_wlQpvhy-004jIQ/0m6a2KI08T8.jpg?size=1027x575&quality=96&sign=8ac0246fc11e58c0d109526baa014f7d&type=album)
-##### Как видим - CatBoost, LightGBM, AdaBoost показали лучший результат
+#### Как видим - CatBoost, LightGBM, AdaBoost показали лучший результат

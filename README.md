@@ -56,8 +56,7 @@ cd math-prog/cpo-dataset/machine-learn/WDBC/
 ## Результаты:
 ![](https://sun9-46.userapi.com/impg/4U3a6tpjXTV4tdX3k1jmMOa_wlQpvhy-004jIQ/0m6a2KI08T8.jpg?size=1027x575&quality=96&sign=8ac0246fc11e58c0d109526baa014f7d&type=album)
 Из этих результатов мы понимаем, что использование методов CatBoost, LightGBM, AdaBoost при классификации нашего набора данных позволит достичь более успешных результатов в правильной классификации опухолевых клеток.
-Дано графическое представление процентного соотношения и степени точности этих методов на рисунке выше
-Мы выяснили, что фичи 'concave points_worst', 'perimeter_worst' and 'radius_worst' больше всего влияют на  'diagnosis'
+Дано графическое представление процентного соотношения и степени точности этих методов на рисунке выше. Мы выяснили, что фичи 'concave points_worst', 'perimeter_worst' and 'radius_worst' больше всего влияют на  'diagnosis'
 
 ## Работу выполнили:
 - Пантюхин Роман, группа 11-008

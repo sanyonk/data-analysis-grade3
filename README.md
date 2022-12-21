@@ -68,3 +68,6 @@ cd math-prog/cpo-dataset/machine-learn/WDBC/
 
 ## Ссылка на код:
 - [main.ipynb](https://github.com/sanyonk/data-analysis-grade3/blob/main/main.ipynb)
+
+## Ссылка на видео:
+- [YouTube](https://www.youtube.com/watch?v=tHRHY47NXdY)
